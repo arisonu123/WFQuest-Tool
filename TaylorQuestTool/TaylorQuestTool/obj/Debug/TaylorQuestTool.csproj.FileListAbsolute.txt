@@ -1,0 +1,8 @@
+D:\UAT\Game Tools Programming\TaylorQuestTool\TaylorQuestTool\bin\Debug\TaylorQuestTool.exe.config
+D:\UAT\Game Tools Programming\TaylorQuestTool\TaylorQuestTool\bin\Debug\TaylorQuestTool.exe
+D:\UAT\Game Tools Programming\TaylorQuestTool\TaylorQuestTool\bin\Debug\TaylorQuestTool.pdb
+D:\UAT\Game Tools Programming\TaylorQuestTool\TaylorQuestTool\obj\Debug\TaylorQuestTool.questCreator.resources
+D:\UAT\Game Tools Programming\TaylorQuestTool\TaylorQuestTool\obj\Debug\TaylorQuestTool.Properties.Resources.resources
+D:\UAT\Game Tools Programming\TaylorQuestTool\TaylorQuestTool\obj\Debug\TaylorQuestTool.csproj.GenerateResource.Cache
+D:\UAT\Game Tools Programming\TaylorQuestTool\TaylorQuestTool\obj\Debug\TaylorQuestTool.exe
+D:\UAT\Game Tools Programming\TaylorQuestTool\TaylorQuestTool\obj\Debug\TaylorQuestTool.pdb
